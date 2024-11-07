@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "TabExt",
+  "version": "1.0",
+
+  "description": "custom new tab page",
+
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": ["tabs"],
+  "icons": {
+    "48": "icon-48.png",
+    "96": "icon-96.png"
+  }
+}
+
