@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "TabExt",
+  "name": "_oTab",
   "version": "1.0",
 
   "description": "custom new tab page",
